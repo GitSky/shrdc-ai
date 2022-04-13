@@ -10,6 +10,8 @@ The model is trained with Wisconsin Breast Cancer Dataset
 This project is created using Google Colab as the main IDE. The main frameworks used in this project are Pandas, Scikit-learn and TensorFlow Keras.
 
 3. Methodology
+
+
 3.1. Data Pipeline
 The data is first loaded and preprocessed, such that unwanted features are removed, and label is encoded in one-hot format. Then the data is split into train-validation-test sets, with a ratio of 60:20:20.
 
