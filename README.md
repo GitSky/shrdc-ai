@@ -1,6 +1,4 @@
-# shrdc-ai
-
-Breast Cancer Prediction Using Feedforward Neural Network
+# Breast Cancer Prediction Using Feedforward Neural Network
 
 1. Summary
 The aim of this project is to create a highly accurate deep learning model to predict breast cancer (whether the tumour is malignant or benign).
