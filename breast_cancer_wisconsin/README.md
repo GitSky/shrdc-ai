@@ -1,6 +1,6 @@
 # Breast Cancer Prediction Using Feedforward Neural Network
 
-1. Summary
+1. Objective
 The aim of this project is to create a highly accurate deep learning model to predict breast cancer (whether the tumour is malignant or benign).
 The model is trained with Wisconsin Breast Cancer Dataset
 
