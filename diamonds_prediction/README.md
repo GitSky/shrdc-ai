@@ -28,9 +28,9 @@ https://www.kaggle.com/datasets/shivam2503/diamonds
 ## 4. Results
 1. The model are tested with test data.
 2. The evaluation result:
-  - Test loss = 603971.5625
-  - Test MAE = 362.7646179199219
-  - Test MSE = 603971.5625
+  - Test loss = 603971.56
+  - Test MAE = 362.76
+  - Test MSE = 603971.56
 
 The model is also used to made prediction with test data.
 A graph of prediction vs. label is plotted, as shown in the image below.
